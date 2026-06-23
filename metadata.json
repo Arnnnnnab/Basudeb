@@ -1,0 +1,6 @@
+{
+  "name": "Ratha Yatra",
+  "description": "ISKCON Ratha Yatra companion app with live chariot tracking, seva bookings, divine darshan media gallery, and offline volunteer qr scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
